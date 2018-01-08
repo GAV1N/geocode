@@ -1,0 +1,6 @@
+adatabase: geo_hq_development
+schema: geocoded_areas
+host: localhost
+port: 5432
+user: postgres
+password:
